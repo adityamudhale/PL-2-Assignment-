@@ -1,14 +1,15 @@
-# 🚀 PL-2: C++ Programming Lab
+<div align="center">
+
+# PL-2: C++ Programming Lab
 
 ![Banner](assets/banner.png)
 
-## 📌 Course Overview
+## Course Overview
 Welcome to the repository for **Programming Language - 2 (C++)**. This workspace contains a collection of laboratory experiments and assignments focusing on Object-Oriented Programming (OOP) concepts, data structures, and advanced C++ techniques.
 
 ---
 
-## 👤 Student Profile
-<div align="center">
+## Student Profile
 
 | Field | Details |
 | :--- | :--- |
@@ -18,11 +19,9 @@ Welcome to the repository for **Programming Language - 2 (C++)**. This workspace
 | **Course** | PL-2 (C++ Programming) |
 | **Professor** | Bajirao Salunke |
 
-</div>
-
 ---
 
-## 📂 Laboratory Experiments
+## Laboratory Experiments
 This repository is organized into distinct experiments, each covering a fundamental aspect of C++.
 
 | Experiment | Description | File |
@@ -46,27 +45,27 @@ This repository is organized into distinct experiments, each covering a fundamen
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 To compile and run any of the experiments, ensure you have a C++ compiler (like `g++`) installed on your system.
 
-1. **Clone the repository:**
-   ```bash
-    git clone https://github.com/adityamudhale/PL-2-Assignment-.git
-    cd PL-2-Assignment-
-   ```
+**1. Clone the repository:**
+```bash
+git clone https://github.com/adityamudhale/PL-2-Assignment-.git
+cd PL-2-Assignment-
+```
 
-2. **Compile an experiment:**
-   ```bash
-   g++ Experiment_7.cpp -o experiment
-   ```
+**2. Compile an experiment:**
+```bash
+g++ Experiment_7.cpp -o experiment
+```
 
-3. **Execute:**
-   ```bash
-   ./experiment
-   ```
+**3. Execute:**
+```bash
+./experiment
+```
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by Aditya Mudhale </sub>
+<sub>Built by Aditya Mudhale</sub>
+
 </div>
