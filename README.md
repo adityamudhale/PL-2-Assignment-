@@ -2,8 +2,6 @@
 
 # PL-2: C++ Programming Lab
 
-![Banner](assets/banner.png)
-
 ## Course Overview
 Welcome to the repository for **Programming Language - 2 (C++)**. This workspace contains a collection of laboratory experiments and assignments focusing on Object-Oriented Programming (OOP) concepts, data structures, and advanced C++ techniques.
 
